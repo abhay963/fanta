@@ -172,7 +172,7 @@ nav i{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 2vh;
+    gap: 5vh;
     width: 25vw;
     height: 70vh;
     margin-top: 10vh;
@@ -182,7 +182,7 @@ nav i{
 
 .card h1{
     margin-top: 40vh;
-    font-size: 3vw;
+    font-size: 1vw;
 }
 
 .card button{
