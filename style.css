@@ -178,6 +178,7 @@ nav i{
     margin-top: 10vh;
     border-radius: 20px;
     background-color: #fff;
+    
 }
 
 .card h1{
@@ -192,6 +193,10 @@ nav i{
     color: #fff;
     background-color: rgb(255, 149, 0);
     padding: 1vw 2vw;
+    margin-top: auto;
+    margin-bottom: 4vh;
+
+
 }
 
 #cocacola{
